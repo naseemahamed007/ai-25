@@ -8,3 +8,9 @@ SQLAlchemy==2.0.36
 python-multipart
 passlib[bcrypt]
 pyjwt
+fastapi
+uvicorn
+scikit-learn
+numpy
+pandas
+transformers==4.37.2
