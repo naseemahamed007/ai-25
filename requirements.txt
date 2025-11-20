@@ -1,0 +1,11 @@
+fastapi==0.115.2
+uvicorn[standard]==0.30.0
+pydantic==2.9.2
+transformers==4.44.2
+torch
+numpy
+scikit-learn
+SQLAlchemy==2.0.36
+python-multipart
+passlib[bcrypt]
+pyjwt
