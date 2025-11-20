@@ -3,7 +3,6 @@ from transformers import pipeline
 
 st.title("Emotional AI")
 
-  app/
     main.py
     models.py
     schemas.py
