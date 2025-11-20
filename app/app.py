@@ -1,3 +1,7 @@
+import streamlit as st
+from transformers import pipeline
+
+st.title("Emotional AI")
 client/
   src/
     App.tsx
