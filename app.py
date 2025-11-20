@@ -3,6 +3,4 @@ from transformers import pipeline
 
 st.title("Emotional AI")
 
-
-  requirements.txt
   Dockerfile
